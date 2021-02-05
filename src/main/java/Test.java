@@ -1,11 +1,12 @@
-package PACKAGE_NAME;
-
 /**
  * @author ：dongjianhua
- * @date ：Created in 2021/2/4 17:29
+ * @date ：Created in 2021/2/5 10:04
  * @description：
  * @modified By：
  * @version:
  */
 public class Test {
+    public static void main(String[] args) {
+        System.out.println("111111111");
+    }
 }
