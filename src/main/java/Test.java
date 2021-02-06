@@ -15,4 +15,7 @@ public class Test {
     public void fun1(){
 
     }
+    public void fun2(){
+
+    }
 }
