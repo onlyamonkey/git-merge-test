@@ -12,4 +12,7 @@ public class Test {
     public void test(){
         //djh
     }
+    public void fun1(){
+
+    }
 }
